@@ -12,4 +12,4 @@ The main objective of this project is to determine what possible features could 
 1. Sklearn based models + sklearn API of DMLC's XGBoost and Microsoft's LightGBM
 2. Cross-validation
 3. Stacking/ensembling models
-The key here was to make the (linear) models robust to outliers. This improved the result both on LB and cross-validation
+(The key here was to make the (linear) models robust to outliers, which improved the result both on LB and cross-validation)
